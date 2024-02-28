@@ -56,35 +56,35 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Folder Structure 📂:
 A quick look at the folder structure of this project.
 
-.
-├── src/
-│   ├── assets/
-│   │   ├── fonts
-│   │   ├── icons
-│   │   └── images
-│   │   ├── ThemeSwitcher.js
-│   ├── components/
-│   │   ├── CategoryCard.js
-│   │   ├── CustomButton.js
-│   │   ├── index.js
-│   │   ├── TabIcon.js
-│   │   ├── TrendingCard.js
-│   │   ├── Viewers.js
-│   ├── constants/
-│   │   ├── dummyData.js/
-│   │   ├── icons.js/
-│   │   ├── images.js/
-│   │   ├── index.js/
-│   │   ├── theme.js/
-│   ├── navigation/
-│   │   ├── navigator.js
-│   │   ├── tabs.js
-│   ├── screens/
-│   │   ├── Home.js
-│   │   ├── index.js
-│   │   ├── Login.js
-│   │   ├── Recipe.js
-│   ├── Screenshots/
+
+├── src
+│   ├─── assets
+│   │   ├─── fonts
+│   │   ├─── icons
+│   │   ├─── images
+│   │   ├─── ThemeSwitcher.js
+│   ├─── components
+│   │   ├─── CategoryCard.js
+│   │   ├─── CustomButton.js
+│   │   ├─── index.js
+│   │   ├─── TabIcon.js
+│   │   ├─── TrendingCard.js
+│   │   ├─── Viewers.js
+│   ├─── constants
+│   │   ├─── dummyData.js
+│   │   ├─── icons.js
+│   │   ├─── images.js
+│   │   ├─── index.js
+│   │   ├─── theme.js
+│   ├─── navigation
+│   │   ├─── navigator.js
+│   │   ├─── tabs.js
+│   ├─── screens
+│   │   ├─── Home.js
+│   │   ├─── index.js
+│   │   ├─── Login.js
+│   │   ├─── Recipe.js
+│   ├─── Screenshots
 │   └── App.js
 
 # Features:
