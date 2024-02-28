@@ -1,4 +1,52 @@
+# My Recipe App React Native
+
+the application is aimed at managing and displaying recipes using the[**React Native**] framework.
+
+# Functionality:
+
+- The application allows users to view detailed information about recipes, including ingredients, creator details, and cooking instructions.
+- Smooth animations are incorporated to enhance the user experience, such as header animations and ingredient list animations based on scroll position.
+- Platform-specific components and features, such as BlurView for iOS and platform-specific styling, are utilized to ensure consistent and native-like behavior across different devices.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+## Folder Structure:
+
+.
+├── src/
+│   ├── assets/
+│   │   ├── fonts
+│   │   ├── icons
+│   │   └── images
+│   │   └── ThemeSwitcher.js
+│   ├── components/
+│   │   ├── CategoryCard.js
+│   │   ├── CustomButton.js
+│   │   ├── index.js
+│   │   ├── TabIcon.js
+│   │   ├── TrendingCard.js
+│   │   └── Viewers.js
+│   ├── constants/
+│   │   ├── dummyData.js/
+│   │   ├── icons.js/
+│   │   ├── images.js/
+│   │   ├── index.js/
+│   │   └── theme.js/
+│   ├── navigation/
+│   │   ├── navigator.js
+│   │   └── tabs.js
+│   ├── screens/
+│   │   ├── Home.js
+│   │   ├── index.js
+│   │   ├── Login.js
+│   │   └── Recipe.js
+│   ├── Screenshots/
+│   ├── App.js
+
+# Features:
+
+"My Recipe App React Native" is a feature-rich application built with React Native, providing users with an intuitive interface to explore and discover new recipes. With its smooth animations and platform-specific optimizations, it offers a seamless experience for both iOS and Android users.
+
 
 # Getting Started
 
