@@ -29,13 +29,13 @@
 <img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709135970.png" alt="App Screenshot" width="300" height="500" />
 
 
-<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation3.gif" alt="App Screenshot" width="300" height="500" />
+<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation3.gif" alt="App Screenshot" width="200" height="500" />
 
 
-<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation2.gif" alt="App Screenshot" width="300" height="500" />
+<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation2.gif" alt="App Screenshot" width="200" height="500" />
 
 
-<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif" alt="App Screenshot" width="300" height="500" />
+<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif" alt="App Screenshot" width="200" height="500" />
 
 
 v
