@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709110585.png)
+<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709110585.png" alt="App Screenshot" width="300" height="500" />
 
 
 ![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131927.png)
