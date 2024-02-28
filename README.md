@@ -1,5 +1,44 @@
 # My Recipe App React Native
 
+## Screenshots
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709110585.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131927.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131888.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131932.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131978.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709132988.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134680.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134696.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134712.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709135970.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation3.gif)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation2.gif)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif)
+
+
+v
 the application is aimed at managing and displaying recipes using the[**React Native**] framework.
 
 # Functionality:
