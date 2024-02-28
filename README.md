@@ -10,7 +10,8 @@ the application is aimed at managing and displaying recipes using the[**React Na
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-## Folder Structure:
+## Folder Structure 📂:
+A quick look at the folder structure of this project.
 
 .
 ├── src/
@@ -41,7 +42,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 │   │   ├── Login.js
 │   │   └── Recipe.js
 │   ├── Screenshots/
-│   ├── App.js
+│   └── App.js
 
 # Features:
 
