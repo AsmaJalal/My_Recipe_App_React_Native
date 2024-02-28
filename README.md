@@ -19,28 +19,28 @@ A quick look at the folder structure of this project.
 │   │   ├── fonts
 │   │   ├── icons
 │   │   └── images
-│   │   └── ThemeSwitcher.js
+│   │   ├── ThemeSwitcher.js
 │   ├── components/
 │   │   ├── CategoryCard.js
 │   │   ├── CustomButton.js
 │   │   ├── index.js
 │   │   ├── TabIcon.js
 │   │   ├── TrendingCard.js
-│   │   └── Viewers.js
+│   │   ├── Viewers.js
 │   ├── constants/
 │   │   ├── dummyData.js/
 │   │   ├── icons.js/
 │   │   ├── images.js/
 │   │   ├── index.js/
-│   │   └── theme.js/
+│   │   ├── theme.js/
 │   ├── navigation/
 │   │   ├── navigator.js
-│   │   └── tabs.js
+│   │   ├── tabs.js
 │   ├── screens/
 │   │   ├── Home.js
 │   │   ├── index.js
 │   │   ├── Login.js
-│   │   └── Recipe.js
+│   │   ├── Recipe.js
 │   ├── Screenshots/
 │   └── App.js
 
