@@ -1,5 +1,44 @@
 # My Recipe App React Native
 
+## Screenshots
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709110585.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131927.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131888.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131932.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709131978.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709132988.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134680.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134696.png)
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709134712.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Screenshot_1709135970.png)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation3.gif)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation2.gif)
+
+
+![App Screenshot](https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif)
+
+
+v
 the application is aimed at managing and displaying recipes using the[**React Native**] framework.
 
 # Functionality:
@@ -10,7 +49,8 @@ the application is aimed at managing and displaying recipes using the[**React Na
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-## Folder Structure:
+## Folder Structure 📂:
+A quick look at the folder structure of this project.
 
 .
 ├── src/
@@ -18,30 +58,30 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 │   │   ├── fonts
 │   │   ├── icons
 │   │   └── images
-│   │   └── ThemeSwitcher.js
+│   │   ├── ThemeSwitcher.js
 │   ├── components/
 │   │   ├── CategoryCard.js
 │   │   ├── CustomButton.js
 │   │   ├── index.js
 │   │   ├── TabIcon.js
 │   │   ├── TrendingCard.js
-│   │   └── Viewers.js
+│   │   ├── Viewers.js
 │   ├── constants/
 │   │   ├── dummyData.js/
 │   │   ├── icons.js/
 │   │   ├── images.js/
 │   │   ├── index.js/
-│   │   └── theme.js/
+│   │   ├── theme.js/
 │   ├── navigation/
 │   │   ├── navigator.js
-│   │   └── tabs.js
+│   │   ├── tabs.js
 │   ├── screens/
 │   │   ├── Home.js
 │   │   ├── index.js
 │   │   ├── Login.js
-│   │   └── Recipe.js
+│   │   ├── Recipe.js
 │   ├── Screenshots/
-│   ├── App.js
+│   └── App.js
 
 # Features:
 
