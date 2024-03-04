@@ -56,7 +56,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Folder Structure 📂:
 A quick look at the folder structure of this project.
 
-
+```
 ├── src
 │   ├─── assets
 │   │   ├─── fonts
@@ -86,7 +86,7 @@ A quick look at the folder structure of this project.
 │   │   ├─── Recipe.js
 │   ├─── Screenshots
 │   └── App.js
-
+```
 # Features:
 
 "My Recipe App React Native" is a feature-rich application built with React Native, providing users with an intuitive interface to explore and discover new recipes. With its smooth animations and platform-specific optimizations, it offers a seamless experience for both iOS and Android users.
