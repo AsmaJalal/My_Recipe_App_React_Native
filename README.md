@@ -31,7 +31,7 @@
 ## Gif Images
 
 
-<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif" alt="App Screenshot" width="200" height="400" />
+<img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation.gif" alt="App Screenshot" width="260" height="460" />
 
 <img src="https://github.com/AsmaJalal/My_Recipe_App_React_Native/blob/main/src/Screenshots/Animation2.gif" alt="App Screenshot" width="200" height="400" />
 
